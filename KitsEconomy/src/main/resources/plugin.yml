@@ -1,0 +1,6 @@
+name: KitsEco
+version: '${project.version}'
+main: kitseconomy.kitseco.KitsEco
+api-version: 1.17
+authors: [ Slime_E ]
+description: Economy plugin for kitsclubmc
